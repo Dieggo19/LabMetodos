@@ -3,11 +3,24 @@
 // CONSTANTES
 // ESTRUCTURAS
 // FUNCIONES
+void mostrarfunc(){
+	// Función que muestra por pantalla las opciones
+}
 // PRINCIPAL
 int main(){
 	// ENTRADA
 	printf("Ejecucion iniciada");
+	int encendido = 1;
+	int hacer; mostrarfunc(); scanf("%d", &hacer);
+	
 	// PROCESAMIENTO
+	while(encendido == 1){
+		switch(hacer){
+				// Opciones...
+			case 10:
+				encendido = 0;
+		}
+	}
 	
 	// SALIDA
 	printf("Ejecucion finalizada");
