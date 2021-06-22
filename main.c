@@ -6,6 +6,7 @@
 void mostrarfunc(){
 	// Función que muestra por pantalla las opciones
 }
+// XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 // PRINCIPAL
 int main(){
 	// ENTRADA
