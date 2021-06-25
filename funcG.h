@@ -3,9 +3,9 @@
 #include <string.h>
 
 // Leer una entrada y retornar puntero con la info (string)
-char * LeerEntrada(){
+char * LeerEntrada(char * nombre_archivo){
     // Creo el flujo
-    FILE * flujo = fopen("Entrada.in", "rb");
+    FILE * flujo = fopen(nombre_archivo, "rb");
 
     // Contar numero de caracteres
     fseek(flujo, 0, SEEK_END);  // Me voy al final del archivo
