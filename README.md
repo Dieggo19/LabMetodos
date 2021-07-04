@@ -1,7 +1,7 @@
 # LabMetodos
 Repositorio para el proyecto final del ramo
 
-main.c: Bloque principal.
-func1.h: Funciones creadas por Daniel Catalán.
-func2.h: Funciones creadas por Diego Acuña.
+principal.c: Bloque principal.
+funciones_1.h: Funciones creadas por Daniel Catalán.
+funciones_2.h: Funciones creadas por Diego Acuña.
 
